@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "api",
+      "script": "node",
+      "args": "build/server.js"
+    }
+  ]
+}

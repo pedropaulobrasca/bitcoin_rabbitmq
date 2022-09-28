@@ -1,0 +1,5 @@
+front-vite/node_modules
+candle-generator/node_modules
+candle-generator/build
+api/build
+api/node_modules

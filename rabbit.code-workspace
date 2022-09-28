@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "api"
+		},
+		{
+			"path": "candle-generator"
+		},
+		{
+			"path": "front-vite"
+		}
+	]
+}

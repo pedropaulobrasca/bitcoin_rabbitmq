@@ -1,0 +1,14 @@
+# Ultima versao do docker-compose
+version: "3.7"
+
+# MongoDb
+services:
+  mongodb:
+    image: mongo:latest
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodb_data:/data:/data/db
+
+volumes:
+  mongodb_data:

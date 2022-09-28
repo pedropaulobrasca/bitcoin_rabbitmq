@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "candle-generator",
+      "script": "node",
+      "args": "build/index.js"
+    }
+  ]
+}
